@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/youbin.jia/Code/CMake/Help/guide/tutorial/Step2_build/cmake_install.cmake",
+		"/Users/youbin.jia/Code/CMake/Help/guide/tutorial/Step2_build/MathFunctions/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
