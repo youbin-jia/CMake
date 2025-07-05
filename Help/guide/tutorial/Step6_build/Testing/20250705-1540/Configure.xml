@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-c++"
+	BuildStamp="20250705-1540-Experimental"
+	Name="JYB-MBP"
+	Generator="ctest-4.0.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="JYB-MBP"
+	OSRelease="15.5"
+	OSVersion="24F74"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="Apple"
+	VendorID="Apple"
+	FamilyID="0"
+	ModelID="0"
+	ModelName="Apple M2 Pro"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="12"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="32768"
+	LogicalProcessorsPerPhysical="12"
+	ProcessorClockFrequency="0"
+	>
+	<Configure>
+		<StartDateTime>Jul 05 23:40 CST</StartDateTime>
+		<StartConfigureTime>1751730023</StartConfigureTime>
+		<ConfigureCommand>"/opt/homebrew/bin/cmake" "/Users/youbin.jia/Code/CMake/Help/guide/tutorial/Step6"</ConfigureCommand>
+		<Log>-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/youbin.jia/Code/CMake/Help/guide/tutorial/Step6_build
+</Log>
+		<ConfigureStatus>0</ConfigureStatus>
+		<EndDateTime>Jul 05 23:40 CST</EndDateTime>
+		<EndConfigureTime>1751730023</EndConfigureTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Configure>
+</Site>

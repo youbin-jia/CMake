@@ -1,0 +1,5 @@
+/Users/youbin.jia/Code/CMake/Help/guide/tutorial/Step6_build/./lib/libMathFunctions.a
+/Users/youbin.jia/Code/CMake/Help/guide/tutorial/Step6_build/./lib/libSqrtLibrary.a
+/Users/youbin.jia/Code/CMake/Help/guide/tutorial/Step6_build/./include/MathFunctions.h
+/Users/youbin.jia/Code/CMake/Help/guide/tutorial/Step6_build/./bin/Tutorial
+/Users/youbin.jia/Code/CMake/Help/guide/tutorial/Step6_build/./include/TutorialConfig.h
